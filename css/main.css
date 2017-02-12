@@ -13,7 +13,7 @@ h1{
     border: 2px;
     font-size: 500%;
     color: #000000;
-    text-align: center;
+    text-align: left;
     margin-top: 8%;
     margin-bottom: 0%;
     position: relative;
@@ -34,27 +34,10 @@ p{
     font-size: 98%;
     line-height: 125%;
     color: #000000;
-    text-align: center;
+    text-align: left;
     width: 60%;
     margin: auto;
 }
-
-.subtitle{
-    text-align: center;
-}
-
-.projectimage{
-    height: 200px;
-    width: 200px;
-    background-color: #000000;
-    border: double black 2px;
-    margin: 10px;
-}
-
-.projects{
-    margin: auto;
-}
-
 
 ul{
     list-style-type: none;
